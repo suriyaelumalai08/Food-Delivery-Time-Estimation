@@ -14,7 +14,7 @@ The application provides a complete mini food-ordering workflow where users can:
 
 1. Register/Login
 2. Browse food items
-3. Select a food item
+3. Select a food item  
 4. Choose quantity
 5. Select delivery location on a map
 6. Place an order
